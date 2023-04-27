@@ -27,9 +27,27 @@ Notre application nous permet d'Afficher les patients - Faire la pagination - Ch
 
 ![Structure de code](g4.png)
 
-<H5>Security:</H5>
+<H4>Security:</H4>
 
 ![Structure de code](g5.png)
+
+
+<H3>Class Patient</H3>
+
+ L'entité possède plusieurs propriétés telles que "id", "nom", "dateNaissance", "malade" et "score".
+ 
+@Entity : Cette annotation spécifie que la classe est une entité et doit être gérée par JPA.
+@Data : Cette annotation génère des getters et des setters pour les propriétés de la classe.
+@NoArgsConstructor : Cette annotation génère un constructeur sans arguments.
+@AllArgsConstructor : Cette annotation génère un constructeur avec tous les arguments.
+@Id : Cette annotation spécifie que le champ est la clé primaire de l'entité.
+@GeneratedValue : Cette annotation spécifie comment la clé primaire est générée.
+@NotEmpty : Cette annotation spécifie que le champ ne doit pas être vide.
+@Size : Cette annotation spécifie les contraintes de taille sur le champ.
+@Column : Cette annotation spécifie la définition de colonne pour le champ.
+@Temporal : Cette annotation spécifie le type temporel pour le champ de date.
+@DateTimeFormat : Cette annotation spécifie le format pour le champ de date.
+@DecimalMin : Cette annotation spécifie la valeur minimale pour le champ de score.
 
 
 
