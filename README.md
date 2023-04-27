@@ -52,6 +52,9 @@ Notre application nous permet d'Afficher les patients - Faire la pagination - Ch
 
 ![Structure de code](g6.png)
 
+<H3>Templates:</H3>
+
+![Structure de code](g7.png)
 
 
 
