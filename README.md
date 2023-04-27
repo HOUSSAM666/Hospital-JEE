@@ -56,6 +56,16 @@ Notre application nous permet d'Afficher les patients - Faire la pagination - Ch
 
 ![Structure de code](g7.png)
 
+<H2>Login</H2>
+
+La page contient un formulaire avec deux champs : "username" pour le nom d'utilisateur et "password" pour le mot de passe. Un bouton "Login" permet de soumettre le formulaire.
+
+Il y a également une case à cocher pour se souvenir de l'utilisateur et un lien vers une page de récupération de mot de passe.
+
+Le code inclut également des liens vers des fichiers CSS et JavaScript du framework Bootstrap pour le style de la page.
+
+
+
 
 
 
