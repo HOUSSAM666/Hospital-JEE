@@ -22,10 +22,12 @@ Notre application nous permet d'Afficher les patients - Faire la pagination - Ch
 ![Structure de code](g3.png)
 
 <H3>PARTIE WEB: </H3>
-<H4>Patient:</H4>
-![PatientController](g4.png)
 
-<H5>Security</H5>
+<H4>Patient:</H4>
+
+
+<H5>Security:</H5>
+
 
 
 
