@@ -92,6 +92,10 @@ Le code inclut également des liens vers des fichiers CSS et JavaScript du frame
 
 ![Structure de code](g14.png)
 
+<H2>Ma BDD:</H2>
+
+![Structure de code](g15.png)
+
 
 
 
