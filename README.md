@@ -79,6 +79,11 @@ Le code inclut également des liens vers des fichiers CSS et JavaScript du frame
 ![Structure de code](g10.png)
 
 
+<H1>Les Interfaces du projets:</H1>
+
+
+
+
  
  
 
