@@ -111,6 +111,15 @@ L'élément <build> contient la configuration pour le processus de construction,
 
 ![Structure de code](g15.png)
 
+ <H1>Conclusion:</H1>
+ 
+ la réalisation de ce projet JEE basée sur Spring MVC, Thymeleaf et Spring Data JPA a permis de développer une solution de gestion de patients complète et efficace. Grâce à cette application, les professionnels de santé peuvent gérer de manière simple et rapide les données de leurs patients.  
+ L'utilisation de ces technologies a également permis de développer une application web performante et sécurisée. Nous espérons que cette solution sera utile aux professionnels de santé et aux patients, et qu'elle contribuera à améliorer la qualité des soins médicaux.
+ 
+ <H1>Realiser par:</H1>
+ <H2>Houssam MESBAH</H2>
+ 
+ 
 
 
 
