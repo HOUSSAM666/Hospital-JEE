@@ -6,3 +6,4 @@
 On a créer une application Web JEE basée sur Spring MVC, Thylemeaf et Spring Data JPA qui permet de gérer les patients.
 Notre application nous permet d'Afficher les patients - Faire la pagination - Chercher les patients - Supprimer un patient.
 
+ 
