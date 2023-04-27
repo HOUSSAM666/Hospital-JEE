@@ -78,6 +78,21 @@ Le code inclut également des liens vers des fichiers CSS et JavaScript du frame
 
 ![Structure de code](g10.png)
 
+<H2>POM.XML</H2>
+La déclaration <?xml version="1.0" encoding="UTF-8"?> spécifie que le fichier est un document XML utilisant l'encodage UTF-8.  
+L'élément <project> est l'élément racine du POM et contient des sous-éléments qui définissent les métadonnées du projet, les dépendances, les paramètres de construction, etc.   
+L'élément <modelVersion> spécifie la version du modèle POM utilisée.  
+L'élément <parent> contient des informations sur le projet parent, le cas échéant.  
+Les éléments <groupId>, <artifactId> et <version> spécifient les coordonnées du projet, qui sont utilisées pour identifier de manière unique le projet dans un référentiel Maven.  
+Les éléments <name> et <description> fournissent des informations sur le projet.  
+L'élément <properties> définit des propriétés globales du projet qui peuvent être utilisées dans l'ensemble du POM.  
+L'élément <dependencies> répertorie les dépendances du projet, qui sont automatiquement téléchargées par Maven lors de la construction du projet.  
+L'élément <build> contient la configuration pour le processus de construction, tels que les plugins à utiliser et les objectifs à exécuter. Dans ce cas, il définit le plugin Maven Spring Boot utilisé pour construire et exécuter l'application Spring Boot.  
+
+![Structure de code](g16.png)
+
+
+
 
 <H1>Les Interfaces du projets:</H1>
 
