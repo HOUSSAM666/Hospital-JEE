@@ -72,6 +72,15 @@ Le code inclut également des liens vers des fichiers CSS et JavaScript du frame
  Les liens de pagination sont générés à l'aide de l'attribut th:each avec la variable pages. La variable status.index contient le numéro de la page actuelle, et la variable currentPage est utilisée pour mettre en évidence le lien de la page courante. L'attribut th:class est utilisé pour définir la classe du lien en fonction de la page actuelle ou non. L'attribut th:href spécifie l'URL pour chaque lien de page, en passant le numéro de la page et le mot clé de recherche en tant que paramètres de requête.
  
  
+![Structure de code](g9.png)
+
+<H2>Template</H2>
+
+![Structure de code](g10.png)
+
+
+ 
+ 
 
 
 
