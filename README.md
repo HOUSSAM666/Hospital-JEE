@@ -81,6 +81,12 @@ Le code inclut également des liens vers des fichiers CSS et JavaScript du frame
 
 <H1>Les Interfaces du projets:</H1>
 
+<H2>ADMIN:</H2>
+
+![Structure de code](g11.png)
+![Structure de code](g12.png)
+![Structure de code](g13.png)
+
 
 
 
