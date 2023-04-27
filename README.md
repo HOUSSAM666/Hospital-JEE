@@ -64,6 +64,15 @@ Il y a également une case à cocher pour se souvenir de l'utilisateur et un lie
 
 Le code inclut également des liens vers des fichiers CSS et JavaScript du framework Bootstrap pour le style de la page.
 
+![Structure de code](g8.png)
+
+
+<H2>Patients</H2>
+
+ Les liens de pagination sont générés à l'aide de l'attribut th:each avec la variable pages. La variable status.index contient le numéro de la page actuelle, et la variable currentPage est utilisée pour mettre en évidence le lien de la page courante. L'attribut th:class est utilisé pour définir la classe du lien en fonction de la page actuelle ou non. L'attribut th:href spécifie l'URL pour chaque lien de page, en passant le numéro de la page et le mot clé de recherche en tant que paramètres de requête.
+ 
+ 
+
 
 
 
