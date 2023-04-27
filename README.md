@@ -13,6 +13,14 @@ Notre application nous permet d'Afficher les patients - Faire la pagination - Ch
 
 ![Structure de code](g1.png)
 
+<H3>Structure détaillé du code:</H3>
+
+![Structure de code](g2.png)
+
+
+
+
+
 
 
 
