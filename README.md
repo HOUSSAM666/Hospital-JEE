@@ -25,6 +25,7 @@ Notre application nous permet d'Afficher les patients - Faire la pagination - Ch
 
 <H4>Patient:</H4>
 
+![Structure de code](g4.png)
 
 <H5>Security:</H5>
 
