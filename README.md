@@ -118,7 +118,7 @@ L'élément <build> contient la configuration pour le processus de construction,
  L'utilisation de ces technologies a également permis de développer une application web performante et sécurisée. Nous espérons que cette solution sera utile aux professionnels de santé et aux patients, et qu'elle contribuera à améliorer la qualité des soins médicaux.
  
  <H1>Realiser par:</H1>
- <H2>Houssam MESBAH</H2>
+ <H2>HOUSSAM MESBAH</H2>
  
  
 
